@@ -1,4 +1,4 @@
-// alert('Message a partir du fichier js!');
+alert('Message a partir du fichier js!');
 
 
-// console.log("Message a la console");
+console.log("Message a la console");
